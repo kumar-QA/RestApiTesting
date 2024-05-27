@@ -1,0 +1,12 @@
+{
+      
+      "st_name": "nisar",
+      "st_fee": 2000,
+      "st_courses": [
+        "manualTesting",
+        "AutomationTesting",
+        "ApiManual",
+        "APiAutomation"
+      ],
+      "st_phoneNo": 9848033226
+    }

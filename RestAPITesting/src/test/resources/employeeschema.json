@@ -1,0 +1,313 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "Designation": {
+          "type": "string"
+        },
+        "Salary": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "Designation",
+        "Salary"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "Designation": {
+          "type": "string"
+        },
+        "Salary": {
+          "type": "integer"
+        },
+        "Rating": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "Designation",
+        "Salary",
+        "Rating"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "Designation": {
+          "type": "string"
+        },
+        "Salary": {
+          "type": "integer"
+        },
+        "Employee_id": {
+          "type": "integer"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "name",
+        "Designation",
+        "Salary",
+        "Employee_id",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "Designation": {
+          "type": "string"
+        },
+        "Salary": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "Designation",
+        "Salary"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "Designation": {
+          "type": "string"
+        },
+        "Salary": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "Designation",
+        "Salary"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "Designation": {
+          "type": "string"
+        },
+        "Salary": {
+          "type": "integer"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "name",
+        "Designation",
+        "Salary",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "Designation": {
+          "type": "string"
+        },
+        "Salary": {
+          "type": "integer"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "name",
+        "Designation",
+        "Salary",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "Designation": {
+          "type": "string"
+        },
+        "Salary": {
+          "type": "integer"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "name",
+        "Designation",
+        "Salary",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "Designation": {
+          "type": "string"
+        },
+        "Salary": {
+          "type": "integer"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "name",
+        "Designation",
+        "Salary",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "Designation": {
+          "type": "string"
+        },
+        "Salary": {
+          "type": "integer"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "name",
+        "Designation",
+        "Salary",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "Designation": {
+          "type": "string"
+        },
+        "Salary": {
+          "type": "integer"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "name",
+        "Designation",
+        "Salary",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "Designation": {
+          "type": "string"
+        },
+        "Salary": {
+          "type": "integer"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "name",
+        "Designation",
+        "Salary",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "Designation": {
+          "type": "string"
+        },
+        "Salary": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "Designation",
+        "Salary"
+      ]
+    }
+  ]
+}
